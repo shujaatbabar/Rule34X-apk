@@ -1,3 +1,5 @@
+Discord for Bugs Report : https://discord.gg/6HQMTpngR
+
 Andriod App for Rule34
 1. Sign Up or Sign In on rule34.xxx
 2. Go to Account > Options
