@@ -8,4 +8,4 @@ Andriod App for Rule34
 8. Check Homepage it should be working now.
 
    VISUAL GUIDE
-   <img width="5436" height="3732" alt="Artboard 6-100" src="https://github.com/user-attachments/assets/bcae39b2-5ada-4f40-a17c-c30518b52c28" />
+<img width="5436" height="3732" alt="Artboard 6" src="https://github.com/user-attachments/assets/73d57742-2dd2-463e-b51b-254ef74757c8" />
